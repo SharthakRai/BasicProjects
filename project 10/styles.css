@@ -1,0 +1,7 @@
+#container {
+    height: 300px;
+    width: 550px;
+    background-color: #F5E4C3;
+    display: grid;
+    margin: 0 auto;
+}
